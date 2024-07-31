@@ -18,14 +18,8 @@ Visit the [Doodle Lab](https://www.alihaiderkhan.com/doodlelab.html) on my websi
 
 - **Front-End**: HTML, CSS, JavaScript
 - **Machine Learning**: Python, Keras, TensorFlow.js
-- **Deployment**: AWS S3, Cloudflare CDN
+- **Deployment**: AWS S3, CloudFront, Cloudflare CDN, Github Pages
 
-## 📂 Project Structure
-
-- **/model**: Contains the trained Keras model and any preprocessing scripts.
-- **/web**: Holds the HTML, CSS, and JavaScript files for the front-end.
-- **/scripts**: Any additional scripts used for data processing or model training.
-- **README.md**: This document, providing an overview of the project.
 
 ## 🖥️ Installation
 
