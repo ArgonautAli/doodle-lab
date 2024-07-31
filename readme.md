@@ -11,7 +11,7 @@
 
 ## 🌐 Try It Out
 
-Visit the [Doodle Lab](#https://www.alihaiderkhan.com/doodlelab.html) on my website and start doodling to see the magic of AI in action!
+Visit the [Doodle Lab](https://www.alihaiderkhan.com/doodlelab.html) on my website and start doodling to see the magic of AI in action!
 
 
 ## 🛠️ Technology Stack
